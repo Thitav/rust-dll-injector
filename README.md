@@ -1,6 +1,6 @@
 # Rust DLL Injector
 
-Simple DLL injector made with rust using Windows API. This DLL injector is just a basic tool and only supports the `LoadLibrary` method, therefore, don't use this tool in any real situation.
+Simple DLL injector made with rust using Windows API. This DLL injector is just a basic tool and only supports the `CreateRemoteThread` method, therefore, don't use this tool in any real situation.
 
 ## Usage
 
